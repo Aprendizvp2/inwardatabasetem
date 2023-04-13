@@ -1,0 +1,26 @@
+{
+  "FirstTemplate": [
+    {
+      "id": 1,
+      "title": "Lesson 1",
+      "img": "https://www.ttamayo.com/wp-content/uploads/2022/11/drawing-shading-and-blending-a-minimalistic-face-with-graphite-pencils-1024x576.jpg",
+      "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    }
+  ],
+  "SecondTemplate": [
+    {
+      "id": 2,
+      "title": "Lesson 2",
+      "img": "https://www.ttamayo.com/wp-content/uploads/2022/11/drawing-shading-and-blending-a-minimalistic-face-with-graphite-pencils-1024x576.jpg",
+      "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    }
+  ],
+  "ThirdTemplate": [
+    {
+      "id": 3,
+      "title": "Lesson 3",
+      "img": "http://2.bp.blogspot.com/_UMxHrJN54AM/TJ3SMiNF3xI/AAAAAAAABKI/mWtzVf_yaZU/s1600/dibujo%2Bcaballo.jpg",
+      "video": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    }
+  ]
+}
